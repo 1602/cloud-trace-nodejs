@@ -1,9 +1,9 @@
 {
-  "name": "@google/cloud-trace",
-  "version": "0.5.10",
+  "name": "gcloud-trace-koa2",
+  "version": "0.6.13",
   "description": "Node.js Support for StackDriver Trace",
   "main": "index.js",
-  "repository": "GoogleCloudPlatform/cloud-trace-nodejs",
+  "repository": "1602/cloud-trace-nodejs",
   "scripts": {
     "test": "./bin/run-test.sh",
     "changelog": "./bin/run-changelog.sh",
